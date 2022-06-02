@@ -1,0 +1,21 @@
+{
+	"name": "forkbook",
+	"version": "1.0.0",
+	"description": "",
+	"default": "index.html",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Paolo Galeotti",
+	"license": "ISC",
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.6.0",
+		"parcel": "^2.6.0"
+	},
+	"dependencies": {
+		"core-js": "^3.22.7",
+		"fracty": "^1.0.11",
+		"regenerator-runtime": "^0.13.9"
+	}
+}
