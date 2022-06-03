@@ -15,8 +15,3 @@
 ## Demo
 
 - https://forkbook.netlify.app/
-
-## Authors
-
-- [@paologaleotti](https://github.com/paologaleotti)
-
