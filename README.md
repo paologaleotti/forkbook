@@ -1,3 +1,4 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 # forkBook
 ![alt text](https://media.discordapp.net/attachments/831473528565268520/981980237296439427/favicon.png)
 
